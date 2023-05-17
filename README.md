@@ -12,10 +12,10 @@ This repository contains a collection of interview questions that have been aske
 
 New questions will be added every alternate day. Each question has information on the company that asked it, the difficulty level, video solution and link of boilerplate code in both ReactJS and vanilla JavaScript.
 
-| Question | Company | Difficulty | Solution                                       | JavaScript Boiler Plate                                                          | React Boiler Plate                                                          |
-| -------- | ------- | ---------- | ---------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Tab      | Airbnb  | Medium     | [Video Solution](https://youtu.be/WpT0YmRlvHs) | [JavaScript Boiler Plate](https://codesandbox.io/s/tab-sw79m8?file=/src/Task.js) | [React Boiler Plate](https://codesandbox.io/s/tab-l3pz59?file=/src/Task.js) |
+| Question | Company | Difficulty | Solution | JavaScript Boiler Plate | React Boiler Plate |
+| -------- | ------- | ---------- | -------- | ----------------------- | ------------------ |
 
+| Tab | Airbnb | Medium | [Video Solution](https://youtu.be/WpT0YmRlvHs) | [JavaScript Boiler Plate](https://codesandbox.io/s/tab-sw79m8?file=/src/Task.js) | [React Boiler Plate](https://codesandbox.io/s/tab-l3pz59?file=/src/Task.js) |
 |Star Rating|Airbnb , Amazon , Uber | Medium | [Video Solution](https://youtu.be/DCkqIRe3w4A)|[JavaScript Boiler Plate](https://codesandbox.io/s/starrating-eukmyy?file=/src/Task.js)|[React Boiler Plate](https://codesandbox.io/s/starrating-okbg4t) |
 
 ## Introduction of Mentor
