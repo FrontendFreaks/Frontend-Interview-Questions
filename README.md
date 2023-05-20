@@ -8,7 +8,7 @@ This repository contains a collection of interview questions that have been aske
   </a>
 </div>
 
-## Interview Questions
+## Frontend Interview Questions
 
 New questions will be added every alternate day. Each question has information on the company that asked it, the difficulty level, video solution and link of boilerplate code in both ReactJS and vanilla JavaScript.
 
