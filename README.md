@@ -17,6 +17,7 @@ New questions will be added every alternate day. Each question has information o
 | Tab      | Airbnb  | Medium     | [Video Solution](https://youtu.be/WpT0YmRlvHs) | [JavaScript Boiler Plate](https://codesandbox.io/s/tab-sw79m8?file=/src/Task.js) | [React Boiler Plate](https://codesandbox.io/s/tab-l3pz59?file=/src/Task.js) |
 |[Star Rating](https://www.youtube.com/shorts/VI50Lkrlu4w)|Airbnb , Amazon , Uber | Medium | [Video Solution](https://youtu.be/DCkqIRe3w4A)|[JavaScript Boiler Plate](https://codesandbox.io/s/starrating-eukmyy?file=/src/Task.js)|[React Boiler Plate](https://codesandbox.io/s/starrating-okbg4t) |
 |[Generate Table](https://www.youtube.com/shorts/QewkSnawRyk)|Google| Easy | [Video Solution](https://www.youtube.com/watch?v=QI3TI-T2Cag&t=105s)|[JavaScript Boiler Plate](https://codesandbox.io/s/generate-table-rhjb0u)|[React Boiler Plate](https://codesandbox.io/s/generate-table-4zlolc) |
+|[Undoable Counter](https://www.youtube.com/shorts/6_o22Eu2qzI)|| Easy | [Video Solution](https://www.youtube.com/watch?v=Xr0wxBVLSBs)||[React Boiler Plate](https://codesandbox.io/s/undoablecounter-ctzd8o) |
 
 
 ## Introduction of Mentor
