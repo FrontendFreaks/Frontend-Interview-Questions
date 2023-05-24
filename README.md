@@ -18,6 +18,8 @@ New questions will be added every alternate day. Each question has information o
 |[Star Rating](https://www.youtube.com/shorts/VI50Lkrlu4w)|Airbnb , Amazon , Uber | Medium | [Video Solution](https://youtu.be/DCkqIRe3w4A)|[JavaScript Boiler Plate](https://codesandbox.io/s/starrating-eukmyy?file=/src/Task.js)|[React Boiler Plate](https://codesandbox.io/s/starrating-okbg4t) |
 |[Generate Table](https://www.youtube.com/shorts/QewkSnawRyk)|Google| Easy | [Video Solution](https://www.youtube.com/watch?v=QI3TI-T2Cag&t=105s)|[JavaScript Boiler Plate](https://codesandbox.io/s/generate-table-rhjb0u)|[React Boiler Plate](https://codesandbox.io/s/generate-table-4zlolc) |
 |[Undoable Counter](https://www.youtube.com/shorts/6_o22Eu2qzI)|| Medium | [Video Solution](https://www.youtube.com/watch?v=Xr0wxBVLSBs)||[React Boiler Plate](https://codesandbox.io/s/undoablecounter-ctzd8o) |
+|Like Button|Amazon| Medium | [Video Solution](https://youtu.be/JVokoHAzRi4
+)|[Javascript Boiler Plate](https://codesandbox.io/s/like-button-dxv0ll)|[React Boiler Plate](https://codesandbox.io/s/like-button-mhwv9u) |
 
 
 ## Introduction of Mentor
